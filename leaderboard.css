@@ -12,6 +12,9 @@ body{
   width: 100vw;
   overflow-x: hidden;
 }
+.back-img img{
+  margin-top: 0vw;
+}
 .play-contest h1{
     text-align: center;
     font-family: 'Roboto', sans-serif;
